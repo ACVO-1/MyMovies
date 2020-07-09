@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="most_popular">Самые популярные</string>
+    <string name="top_rated">Наибольший рейтинг</string>
+    <string name="add_to_favourite">Добавлено в избранное</string>
+    <string name="remove_from_favourite">Убрано из избранного</string>
+    <string name="item_main">Главная</string>
+    <string name="item_favourite">Избранное</string>
+    <string name="start_trailer">Запустить трейлер</string>
+    <string name="text_replace">TextView</string>
+
+
+    <string name="label_title">Название:</string>
+    <string name="label_original_title">Оригинальное название:</string>
+    <string name="label_rating">Рейтинг:</string>
+    <string name="label_release_date">Дата выхода:</string>
+    <string name="label_description">Описание:</string>
+    <string name="favourite_empty">ПУСТО</string>
+</resources>
